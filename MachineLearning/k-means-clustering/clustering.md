@@ -14,3 +14,7 @@ Silhouette score is a measurement of how similar points within a cluster are to 
 ## Notes: 
  - If the silhouette value is close to 1, the sample is well-clustered and points are already assigned to a very appropriate cluster.
  - The silhouette value ranges between -1 to 1
+
+
+# What is the default value of n_clusters in sklearn.cluster.KMeans, the K-means clustering class in Scikit-learn? 
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html
