@@ -6,6 +6,7 @@
 
 ### Question 2
 
+
 For K-means clustering, what will be the cluster centroids for the following 2 clusters?
 
 C1: {(3,5),(5,4), (4,6)}
